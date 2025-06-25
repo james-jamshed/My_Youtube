@@ -1,6 +1,15 @@
+import Head from "./components/Head"
+import Body from "./components/Body"
 function App() {
   return (
-    <h1 className="bg-amber-800">Welcome to my app</h1>
+    <div>
+      <Head />
+      <Body />
+     
+
+    </div>
+
+   
   )
     
     
